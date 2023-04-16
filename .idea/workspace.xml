@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2ce10167-7e08-4c93-a7fe-ada19ca37c6d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/Practice/Add_2_No.s.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Practice/Average_two_no..py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Practice/Conditional_Expressions/1_condition.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Practice/Conditional_Expressions/And_condition.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Practice/Conditional_Expressions/Break_statement.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Practice/Conditional_Expressions/Link_checker.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Practice/Conditional_Expressions/Or_condition.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Practice/Conditional_Expressions/PracticeSet_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Practice/Conditional_Expressions/Range_function.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Practice/Conditional_Expressions/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Practice/Conditional_Expressions/in_and_is.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Practice/Conditional_Expressions/in_condition.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Practice/Function&amp;Recursions/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Practice/List_tuples/Broken_link.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Practice/List_tuples/List_01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Practice/List_tuples/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Practice/Loops/1to50_print.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Practice/Loops/Continue_loop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Practice/Loops/F_String.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Practice/Loops/Facotrial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Practice/Loops/Factorial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Practice/Loops/Factorial_Recursion.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Practice/Loops/File_Reader.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Practice/Loops/Find_Element.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Practice/Loops/For_Loop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Practice/Loops/Function.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Practice/Loops/Grades_Loop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Practice/Loops/Greet_name.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Practice/Loops/Marks%_Function.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Practice/Loops/Mayank.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Practice/Loops/Pass_statement.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Practice/Loops/Pre_Print.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Practice/Loops/Prime_no,.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Practice/Loops/Pyramid_star_pattern.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Practice/Loops/Spam_check.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Practice/Loops/String_function.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Practice/Loops/StringofNo.s.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Practice/Loops/System_File_Reader.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Practice/Loops/Traverse_list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Practice/Loops/While_loop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Practice/Loops/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Practice/Loops/masys_dev_url.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Practice/Loops/myfile.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Practice/Remainder.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Practice/Square.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Practice/String.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Practice/String_Slicing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Practice/Test/25Feb_brokenLinks.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Practice/Test/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Practice/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Broken_links_dev/1.HelloWorld.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Broken_links_dev/1Broken_links.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Broken_links_dev/Broken.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Broken_links_dev/Broken_links_dev1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Broken_links_dev/Java_python.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Broken_links_dev/dev_url.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Broken_links_dev/masys_dev.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Broken_links_dev/masys_dev1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Broken_links_dev/url_csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="2LicxF7YPxopEEEwr45XGLWvKqO" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\prave\Downloads\Broken_links_dev\untitled\.idea\Practice\Test" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2ce10167-7e08-4c93-a7fe-ada19ca37c6d" name="Changes" comment="" />
+      <created>1676357596124</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1676357596124</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
